@@ -21,7 +21,7 @@
             </div>
             <div class="subscribe-bottom mt-15">
                 <input type="checkbox" id="newsletter-permission">
-                <label for="newsletter-permission">Don't show this popup again</label>
+                <label for="newsletter-permission">YEAH!!!!!!!</label>
             </div>
         </div>
     </div>
